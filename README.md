@@ -1,4 +1,5 @@
 JOGO DO CÉU
+
 Este é um jogo simples em que o jogador deve acertar a senha para entrar no céu, e tem três chances para jogar.
 
 Como jogar
