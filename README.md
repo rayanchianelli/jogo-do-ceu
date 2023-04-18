@@ -18,5 +18,6 @@ O jogador digita sua resposta e é verificada se ela está correta.
 Se o jogador não acertar a senha na primeira tentativa, é permitida uma nova tentativa.
 Depois de duas tentativas, o jogador tem a opção de jogar novamente ou sair do jogo.
 
-Autor7
+Autor
+
 rayan noyma
