@@ -20,4 +20,4 @@ Depois de duas tentativas, o jogador tem a opção de jogar novamente ou sair do
 
 Autor
 
-rayan noyma
+rayan c.
