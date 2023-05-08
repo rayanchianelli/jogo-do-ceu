@@ -1,23 +1,23 @@
-JOGO DO CÉU
+KNOCKING ON THE HEAVEN'S DOOR
 
-Este é um jogo simples em que o jogador deve acertar a senha para entrar no céu, e tem três chances para jogar.
+This is a simple game in which the player must guess the password to enter heaven, and has three chances to play.
 
-Como jogar
+How to play
 
-Execute o código em um interpretador Python.
-Leia a dica fornecida por São Pedro.
-Digite a senha que você acredita que é a correta.
-Dependendo da sua resposta, São Pedro pode lhe dar as boas-vindas ao céu ou mandá-lo para o inferno.
-Se você não acertar a senha na primeira tentativa, você terá uma chance extra de tentar novamente.
-Após as duas tentativas, você pode escolher se quer jogar novamente ou sair do jogo.
+Run the code in a Python interpreter.
+Read the tip provided by St. Peter.
+Enter the password that you believe is correct.
+Depending on your answer, St. Peter can either welcome you to heaven or send you to hell.
+If you don't get the password right on the first try, you'll have an extra chance to try again.
+After the two attempts, you can choose whether to play again or exit the game.
 
-Como funciona
+How it works
 
-O jogo é escrito em Python e usa o módulo random para gerar um número aleatório que seleciona uma senha da lista de senhas de São Pedro.
-O jogador digita sua resposta e é verificada se ela está correta.
-Se o jogador não acertar a senha na primeira tentativa, é permitida uma nova tentativa.
-Depois de duas tentativas, o jogador tem a opção de jogar novamente ou sair do jogo.
+The game is written in Python and uses the random module to generate a random number that selects a password from the Saint Peter's list of passwords.
+The player types in their answer and is checked to see if it is correct.
+If the player doesn't get the password right on the first try, a new try is allowed.
+After two tries, the player is given the option to play again or quit the game.
 
-Autor
+Author
 
 rayan c.
