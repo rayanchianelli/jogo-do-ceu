@@ -8,8 +8,7 @@ Run the code in a Python interpreter.
 Read the tip provided by St. Peter.
 Enter the password that you believe is correct.
 Depending on your answer, St. Peter can either welcome you to heaven or send you to hell.
-If you don't get the password right on the first try, you'll have an extra chance to try again.
-After the two attempts, you can choose whether to play again or exit the game.
+If you don't get the password right on the first try, you can try again or exit the game.
 
 How it works
 
